@@ -1,0 +1,294 @@
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em C#\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cézar\99Freelas\Extrair dados .XML estruturado com base em .XSD em CSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\Projeto Principal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cezar\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal2\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\ProjetoPrincipal3\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.exe
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.deps.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.runtimeconfig.json
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\MySql.Data.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.IO.Pipelines.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\ZstdSharp.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.AssemblyReference.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfoInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.AssemblyInfo.cs
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CoreCompileInputs.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.csproj.CopyComplete
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\refint\TransformarXmlEmCSharpESalvarNoBanco.dll
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.pdb
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\TransformarXmlEmCSharpESalvarNoBanco.genruntimeconfig.cache
+E:\Cezar\99Freelas\ExtrairDadosXMLEstruturadoComBaseEmXSDEmCSharp\TransformarXmlEmCSharpESalvarNoBanco\obj\Debug\net7.0\ref\TransformarXmlEmCSharpESalvarNoBanco.dll
